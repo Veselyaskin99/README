@@ -9,7 +9,7 @@
 - Add (Client: [Client](https://github.com/Veselyaskin99/README/blob/main/Client.md)) — функция, добавляющая клиента в базу данных. Параметр «Client» — клиент, которого необходимо добавить в БД;
 - Del (Client: [Client](https://github.com/Veselyaskin99/README/blob/main/Client.md)) — функция, удаляющая клиента из программы. Параметр «Client» — клиент, которого необходимо удалить из программы;
 - Edit (Client: [Client](https://github.com/Veselyaskin99/README/blob/main/Client.md)) — функция, редактирующая данные о клиенте. Параметр «Client» — клиент, которого необходимо редактировать в БД;
-- FindByID< Client >(ID : Integer) : Client — функция, осуществляющая поиск клиента в базе данных по ID и возвращающая найденного клиента, если такой имеется.
+- FindByID< [Client](https://github.com/Veselyaskin99/README/blob/main/Client.md) >(ID : Integer) : Client — функция, осуществляющая поиск клиента в базе данных по ID и возвращающая найденного клиента, если такой имеется.
 - GetID(Client: [Client](https://github.com/Veselyaskin99/README/blob/main/Client.md)) : Integer — функция, возвращающая ID определенного клиента.
 - GetBestClients(Date1:DateTime,Date2:DateTime):List<[Client](https://github.com/Veselyaskin99/README/blob/main/Client.md)> - функция, возвращающая список топ клиентов в определенном временном промежутке.
 - GetClientOrder(Date1:DateTime,Date2:DateTime):List - функция, позволяющая выводить список заказов клиента.
