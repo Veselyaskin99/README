@@ -12,3 +12,11 @@
 ![](https://github.com/Veselyaskin99/README/blob/main/1.png)
 
 На данной диаграмме изображены все компоненты: клиентское приложение, Работники, клиенты, платежи, контракты и автомобили. Эти компоненты взаимодействуют друг с другом с помощью интерфейсов. 
+
+## Диаграмма интерфейсов
+___
+![](https://github.com/Veselyaskin99/README/blob/main/3.png)
+
+### Список всех интерфейсов:
+---
+[IClient](<https://github.com/Veselyaskin99/README/blob/main/IClient>)
