@@ -1,4 +1,4 @@
-# Описание интерфейса IOrder
+# Описание интерфейса IContract
 Интерфейс предназначен для работы с методами класса [Contract](https://github.com/Veselyaskin99/README/blob/main/Contract.md)
 
 ## Реализация интерфейса
