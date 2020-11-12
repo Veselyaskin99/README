@@ -1,6 +1,6 @@
 # Описание интерфейса IWorker
 
-Интерфейс предназначен для работы с методами класса [Worker](https://github.com/Veselyaskin99/README/blob/main/Worker.md))
+Интерфейс предназначен для работы с методами класса [Worker](https://github.com/Veselyaskin99/README/blob/main/Worker.md)
 ## Реализация интерфейса
 
 - Add (Worker: [Worker](https://github.com/Veselyaskin99/README/blob/main/Worker.md)) — функция, добавляющая работника в базу данных. Параметр «Worker» — работник, которого необходимо добавить в БД;
