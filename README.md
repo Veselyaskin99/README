@@ -19,4 +19,9 @@ ___
 
 ### Список всех интерфейсов:
 ---
-[IClient](<https://github.com/Veselyaskin99/README/blob/main/IClient>)
+
+- **[IClient](<https://github.com/Veselyaskin99/README/blob/main/IClient>)**<br>
+- **[IWorker]()**<br>
+- **[IContract]()**<br>
+- **[IPay]()**<br>
+- **[ITS]()**
