@@ -22,6 +22,6 @@
 
 - **[IClient](<https://github.com/Veselyaskin99/README/blob/main/IClient>)**<br>
 - **[IWorker](https://github.com/Veselyaskin99/README/blob/main/IWorker.md)**<br>
-- **[IContract]()**<br>
-- **[IPay]()**<br>
+- **[IContract](https://github.com/Veselyaskin99/README/blob/main/IContract.md)**<br>
+- **[IPay](https://github.com/Veselyaskin99/README/blob/main/IPay.md)**<br>
 - **[ITS]()**
