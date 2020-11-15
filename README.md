@@ -20,7 +20,7 @@
 ### Список всех интерфейсов:
 
 
-- **[IClient](<https://github.com/Veselyaskin99/README/blob/main/IClient>)**<br>
+- **[IClient](https://github.com/Veselyaskin99/README/blob/main/IClient.md)**<br>
 - **[IWorker](https://github.com/Veselyaskin99/README/blob/main/IWorker.md)**<br>
 - **[IContract](https://github.com/Veselyaskin99/README/blob/main/IContract.md)**<br>
 - **[IPay](https://github.com/Veselyaskin99/README/blob/main/IPay.md)**<br>
